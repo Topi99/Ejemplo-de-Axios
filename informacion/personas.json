@@ -1,0 +1,47 @@
+{
+  "personas": [
+    {
+      "nombre": "Juan",
+      "zonas": [
+        {
+          "nombre": "Tundra",
+          "precio": 100
+        },
+        {
+          "nombre": "Árida",
+          "precio": 150
+        },
+        {
+          "nombre": "Boscosa",
+          "precio": 200
+        }
+      ]
+    },
+    {
+      "nombre": "Pedro",
+      "zonas": [
+        {
+          "nombre": "Tundra",
+          "precio": 100
+        },
+        {
+          "nombre": "Boscosa",
+          "precio": 200
+        }
+      ]
+    },
+    {
+      "nombre": "José",
+      "zonas": [
+        {
+          "nombre": "Tundra",
+          "precio": 100
+        },
+        {
+          "nombre": "Árida",
+          "precio": 150
+        }
+      ]
+    }
+  ]
+}
